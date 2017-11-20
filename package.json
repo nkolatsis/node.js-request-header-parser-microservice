@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/nkolatsis/request-header-parser-microservice#readme",
   "dependencies": {
-    "express": "^4.16.2"
+    "express": "^4.16.2",
+    "request-ip": "^2.0.2"
   }
 }
